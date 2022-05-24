@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Gs1XmlTransfer", "gs1-xml-transfer\Gs1XmlTransfer.csproj", "{FEB0AEFC-F84F-4ABB-BA4F-FB97E5927D49}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Gs1XmlTransferTests", "gs1-xml-transfer-tests\Gs1XmlTransferTests.csproj", "{9C326B42-13D0-43DA-A3CF-F8CA93C32C22}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FEB0AEFC-F84F-4ABB-BA4F-FB97E5927D49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEB0AEFC-F84F-4ABB-BA4F-FB97E5927D49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEB0AEFC-F84F-4ABB-BA4F-FB97E5927D49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEB0AEFC-F84F-4ABB-BA4F-FB97E5927D49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C326B42-13D0-43DA-A3CF-F8CA93C32C22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C326B42-13D0-43DA-A3CF-F8CA93C32C22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C326B42-13D0-43DA-A3CF-F8CA93C32C22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C326B42-13D0-43DA-A3CF-F8CA93C32C22}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CC91A407-6BE9-44B4-A60A-E167384AD37A}
+	EndGlobalSection
+EndGlobal
